@@ -1,9 +1,20 @@
 
 # ml5.js doodles
 
+These ml5.js sketches are based on Dan's Shiffman's excellent [Beginners Guide to Machine Learning in Javascript][link_yt_playlist] youtube playlist.
+
+## Live Demos
+
+You can see live versions of these examples on 
+
+- [Image classification using Webcam][link_p5_webcam_classify]
+- [Feature Extraction Using Custom Model][link_p5_custom_model_load] - warning: this has been trained against my face so is unlikely to work.
+
 ## TODO
 
-- Upload to p5 web editor!
+- Upload these to p5 web editor!
+
+
 
 ## Learning material
 
@@ -20,3 +31,5 @@
 [link_code]: https://github.com/CodingTrain/website/tree/master/Courses/beginner_ml5
 [link_yt_playlist]: https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
 [link_p5]: https://p5js.org/reference/
+[link_p5_webcam_classify]: https://editor.p5js.org/booyaa/sketches/S1geqa1TG4
+[link_p5_custom_model_load]: https://editor.p5js.org/booyaa/sketches/B1kDfgaGN
